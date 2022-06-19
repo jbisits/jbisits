@@ -2,9 +2,9 @@
 - 👀 I’m interested in all things Julia!
 - I use Julia in my research (physical oceanography) and wherever else I can!
 
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbisits)](https://github.com/anuraghazra/github-readme-stats)
---->
+This is for the Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbisits&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbisits&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jbisits/jbisits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
