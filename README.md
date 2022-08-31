@@ -1,3 +1,4 @@
+🎾
 Hi, I’m Joey Bisits (@jbisits) and I’m interested in all things Julia!
 I use Julia in my research (physical oceanography) and wherever else I can!
 
