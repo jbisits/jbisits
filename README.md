@@ -3,7 +3,7 @@ Hi, I’m Joey Bisits (@jbisits) and I’m interested in all things Julia!
 I use Julia in my research (physical oceanography) and wherever else I can!
 
 <details>
-  <summary>🎾 GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
   <a href="https://github.com/natgeo-wong">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbisits&show_icons=true&count_private=true&theme=onedark" />
   </a>
