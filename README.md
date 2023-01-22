@@ -4,7 +4,7 @@ I use Julia in my research (physical oceanography) and wherever else I can!
 
 <details>
   <summary>GitHub Stats</summary>
-  <a href="https://github.com/natgeo-wong">
+  <a href="https://github.com/jbisits">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbisits&show_icons=true&count_private=true&theme=onedark" />
   </a>
   <a href="https://github.com/natgeo-wong">
