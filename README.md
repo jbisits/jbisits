@@ -7,7 +7,7 @@ I use Julia in my research (physical oceanography) and wherever else I can!
   <a href="https://github.com/jbisits">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbisits&show_icons=true&count_private=true&theme=onedark" />
   </a>
-  <a href="https://github.com/natgeo-wong">
+  <a href="https://github.com/jbisits">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbisits&theme=onedark&hide=jupyter%20notebook&layout=compact" />
   </a>
 </details>
