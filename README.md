@@ -1,6 +1,7 @@
 🎾
-Hi, I’m Joey Bisits (@jbisits) and I’m interested in all things Julia!
-I use Julia in my research (physical oceanography) and wherever else I can!
+Hi, I’m Joey Bisits (@jbisits) and I am currently a research associate working in physical oceanography and ocean modelling.
+By choice I use Julia in my research but I am also fluent with Fortran, python and R.
+For more information about me please visit [my website](https://jbisits.github.io/).
 
 <details>
   <summary>GitHub Stats</summary>
