@@ -13,9 +13,7 @@ For more information about me please visit [my website](https://jbisits.github.i
   </a>
 </details>
 
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbisits&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbisits&theme=onedark&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
---->
+![Academic level: earth worm](https://raw.githubusercontent.com/mitchest/dog-badge/main/badges/svg/classic/earth-worm.svg)
 
 <!---
 jbisits/jbisits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
