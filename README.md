@@ -13,7 +13,7 @@ For more information about me please visit [my website](https://jbisits.github.i
   </a>
 </details>
 
-![Academic level: earth worm](https://raw.githubusercontent.com/mitchest/dog-badge/main/badges/svg/classic/earth-worm.svg)
+![Academic level: earth worm](https://raw.githubusercontent.com/mitchest/dog-badge/main/badges/svg/classic/earth-worm.svg)(https://github.com/mitchest/dog-badge)
 
 <!---
 jbisits/jbisits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
